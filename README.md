@@ -78,10 +78,10 @@
 | Просмотр объявлений                               | 2100                       |
 | Размещение объявлений                             | 10                         |
 
-### 3 Логическая схема
+## 3. Логическая схема
 ![image](https://user-images.githubusercontent.com/41092173/201536232-a02bc0b0-1288-4dfa-98c0-591fdf59f19a.png)
 
-### 4 Физическая схема
+## 4. Физическая схема
 ![image](https://user-images.githubusercontent.com/41092173/201541845-745dd2d1-dc33-4976-8dad-f55eebf2cb62.png)
 
 ## N. Источники
